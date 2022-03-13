@@ -1,6 +1,7 @@
 # from https://github.com/github/gitignore/blob/main/Python.gitignore
 
 tasks.json
+tasks.db
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
