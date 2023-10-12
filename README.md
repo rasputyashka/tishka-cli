@@ -43,5 +43,5 @@ Complications:
 
 
 
-(The task from python-beginners written in python 3.8.10)
+(The task is taken from python-beginners and the solution is written in python 3.8.10)
 https://t.me/ru_python_beginners/1465630
